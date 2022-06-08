@@ -1,5 +1,11 @@
 # README
 
+This Rails 7 app was generated with the following options: 
+
+```
+rails new rails_api_demo --database=postgresql --skip-action-mailbox --skip-action-text --skip-action-cable --asset-pipeline=propshaft --skip-hotwire --skip-test --skip-system-test --javascript=esbuild --css=tailwind
+```
+
 ## Try it out
 
 Install PostgreSQL and start the database service:
